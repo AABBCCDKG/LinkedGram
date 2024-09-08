@@ -1,4 +1,4 @@
-# Chat with your email - gmaillm
+# Chat with your email - Gmaillm
 
 ## How to use:
 A:
