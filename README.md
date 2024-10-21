@@ -1,4 +1,4 @@
-# LinkedGram (Go Version)
+# LinkedGram
 
 ## How to run the program:
 - **Note**: There are four main functions: Create Post, Comment on Post, Search User, and Create Profile. Due to communication limitations between client and server, you can run one function at a time. To run another, restart the program.
